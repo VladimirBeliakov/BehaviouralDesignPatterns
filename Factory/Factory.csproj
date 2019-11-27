@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{65B4B7FB-366C-4457-9E45-2F4B432B150B}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Factory</RootNamespace>
+    <AssemblyName>Factory</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="IngredientFactory\ChampaignIngredientFactory.cs" />
+    <Compile Include="IngredientFactory\IIngredientFactory.cs" />
+    <Compile Include="IngredientFactory\SyracuseIngredientFactory.cs" />
+    <Compile Include="Ingredients\ChampaignStyleIngredients\ChampaignStyleCheese.cs" />
+    <Compile Include="Ingredients\ChampaignStyleIngredients\ChampaignStyleDough.cs" />
+    <Compile Include="Ingredients\ChampaignStyleIngredients\ChampaignStyleMushroom.cs" />
+    <Compile Include="Ingredients\ChampaignStyleIngredients\ChampaignStylePepperoni.cs" />
+    <Compile Include="Ingredients\ChampaignStyleIngredients\ChampaignStyleSauce.cs" />
+    <Compile Include="Ingredients\ChampaignStyleIngredients\ChampaignStyleVeggie.cs" />
+    <Compile Include="Ingredients\Cheese.cs" />
+    <Compile Include="Ingredients\Dough.cs" />
+    <Compile Include="Ingredients\IIngredient.cs" />
+    <Compile Include="Ingredients\Mushroom.cs" />
+    <Compile Include="Ingredients\Pepperoni.cs" />
+    <Compile Include="Ingredients\Sauce.cs" />
+    <Compile Include="Ingredients\SyracuseStyleIngredients\SyracuseStylePepperoni.cs" />
+    <Compile Include="Ingredients\SyracuseStyleIngredients\SyracuseStyleCheese.cs" />
+    <Compile Include="Ingredients\SyracuseStyleIngredients\SyracuseStyleDough.cs" />
+    <Compile Include="Ingredients\SyracuseStyleIngredients\SyracuseStyleMushroom.cs" />
+    <Compile Include="Ingredients\SyracuseStyleIngredients\SyracuseStyleSauce.cs" />
+    <Compile Include="Ingredients\SyracuseStyleIngredients\SyracuseStyleVeggie.cs" />
+    <Compile Include="Ingredients\Veggie.cs" />
+    <Compile Include="PizzaFactories\PizzaFactory.cs" />
+    <Compile Include="PizzaFactories\IPizzaFactory.cs" />
+    <Compile Include="PizzaFactories\SyracusePizzaFactory.cs" />
+    <Compile Include="Pizzas\CheesePizza.cs" />
+    <Compile Include="Pizzas\GreekPizza.cs" />
+    <Compile Include="Pizzas\IPizza.cs" />
+    <Compile Include="Pizzas\MushroomPizza.cs" />
+    <Compile Include="Pizzas\PepperoniPizza.cs" />
+    <Compile Include="Pizzas\PizzaStyle.cs" />
+    <Compile Include="Pizzas\StreetPizza.cs" />
+    <Compile Include="Pizzas\SyracusePizzas\SyracuseStyleCheesePizza.cs" />
+    <Compile Include="Pizzas\SyracusePizzas\SyracuseStyleGreekPizza.cs" />
+    <Compile Include="Pizzas\SyracusePizzas\SyracuseStyleMushroomPizza.cs" />
+    <Compile Include="Pizzas\SyracusePizzas\SyracuseStylePepperoniPizza.cs" />
+    <Compile Include="Pizzas\SyracusePizzas\SyracuseStyleStreetPizza.cs" />
+    <Compile Include="Pizzas\SyracusePizzas\SyracuseStyleVeggiePizza.cs" />
+    <Compile Include="Pizzas\VeggiePizza.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Stores\ChampaignPizzaStore.cs" />
+    <Compile Include="Stores\PizzaStore.cs" />
+    <Compile Include="Stores\SyracusePizzaStore.cs" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+         Other similar extension points exist, see Microsoft.Common.targets.
+    <Target Name="BeforeBuild">
+    </Target>
+    <Target Name="AfterBuild">
+    </Target>
+    -->
+</Project>

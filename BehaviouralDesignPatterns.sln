@@ -4,6 +4,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Program", "Program\Program.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HollywoodPrinciple", "HollywoodPrinciple\HollywoodPrinciple.csproj", "{D9D25B50-2DAF-4D94-B978-E2BA91C117F6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Iterator", "Iterator\Iterator.csproj", "{03959B87-CD71-4735-8DEC-81152CD15692}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Factory", "Factory\Factory.csproj", "{65B4B7FB-366C-4457-9E45-2F4B432B150B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +22,13 @@ Global
 		{D9D25B50-2DAF-4D94-B978-E2BA91C117F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D9D25B50-2DAF-4D94-B978-E2BA91C117F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D9D25B50-2DAF-4D94-B978-E2BA91C117F6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{03959B87-CD71-4735-8DEC-81152CD15692}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03959B87-CD71-4735-8DEC-81152CD15692}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03959B87-CD71-4735-8DEC-81152CD15692}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03959B87-CD71-4735-8DEC-81152CD15692}.Release|Any CPU.Build.0 = Release|Any CPU
+		{65B4B7FB-366C-4457-9E45-2F4B432B150B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65B4B7FB-366C-4457-9E45-2F4B432B150B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65B4B7FB-366C-4457-9E45-2F4B432B150B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65B4B7FB-366C-4457-9E45-2F4B432B150B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
