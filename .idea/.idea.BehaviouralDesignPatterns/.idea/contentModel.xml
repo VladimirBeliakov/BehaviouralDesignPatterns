@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\Lenovo\.Rider2019.2\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Lenovo\.Rider2019.2\system\resharper-host\local\Transient\ReSharperHost\v192\SolutionCaches\_BehaviouralDesignPatterns.843577810.00" t="ExcludeRecursive" />
+    <e p="C:\Users\Lenovo\RiderProjects\BehaviouralDesignPatterns" t="IncludeFlat">
+      <e p="BehaviouralDesignPatterns.sln" t="IncludeFlat" />
+      <e p="Factory" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Factory.csproj" t="IncludeRecursive" />
+        <e p="IngredientFactory" t="Include">
+          <e p="ChampaignIngredientFactory.cs" t="Include" />
+          <e p="IIngredientFactory.cs" t="Include" />
+          <e p="SyracuseIngredientFactory.cs" t="Include" />
+        </e>
+        <e p="Ingredients" t="Include">
+          <e p="ChampaignStyleIngredients" t="Include">
+            <e p="ChampaignStyleCheese.cs" t="Include" />
+            <e p="ChampaignStyleDough.cs" t="Include" />
+            <e p="ChampaignStyleMushroom.cs" t="Include" />
+            <e p="ChampaignStylePepperoni.cs" t="Include" />
+            <e p="ChampaignStyleSauce.cs" t="Include" />
+            <e p="ChampaignStyleVeggie.cs" t="Include" />
+          </e>
+          <e p="Cheese.cs" t="Include" />
+          <e p="Dough.cs" t="Include" />
+          <e p="IIngredient.cs" t="Include" />
+          <e p="Mushroom.cs" t="Include" />
+          <e p="Pepperoni.cs" t="Include" />
+          <e p="Sauce.cs" t="Include" />
+          <e p="SyracuseStyleIngredients" t="Include">
+            <e p="SyracuseStyleCheese.cs" t="Include" />
+            <e p="SyracuseStyleDough.cs" t="Include" />
+            <e p="SyracuseStyleMushroom.cs" t="Include" />
+            <e p="SyracuseStylePepperoni.cs" t="Include" />
+            <e p="SyracuseStyleSauce.cs" t="Include" />
+            <e p="SyracuseStyleVeggie.cs" t="Include" />
+          </e>
+          <e p="Veggie.cs" t="Include" />
+        </e>
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="PizzaFactories" t="Include">
+          <e p="IPizzaFactory.cs" t="Include" />
+          <e p="PizzaFactory.cs" t="Include" />
+          <e p="SyracusePizzaFactory.cs" t="Include" />
+        </e>
+        <e p="Pizzas" t="Include">
+          <e p="CheesePizza.cs" t="Include" />
+          <e p="GreekPizza.cs" t="Include" />
+          <e p="IPizza.cs" t="Include" />
+          <e p="MushroomPizza.cs" t="Include" />
+          <e p="PepperoniPizza.cs" t="Include" />
+          <e p="PizzaStyle.cs" t="Include" />
+          <e p="StreetPizza.cs" t="Include" />
+          <e p="SyracusePizzas" t="Include">
+            <e p="SyracuseStyleCheesePizza.cs" t="Include" />
+            <e p="SyracuseStyleGreekPizza.cs" t="Include" />
+            <e p="SyracuseStyleMushroomPizza.cs" t="Include" />
+            <e p="SyracuseStylePepperoniPizza.cs" t="Include" />
+            <e p="SyracuseStyleStreetPizza.cs" t="Include" />
+            <e p="SyracuseStyleVeggiePizza.cs" t="Include" />
+          </e>
+          <e p="VeggiePizza.cs" t="Include" />
+        </e>
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+        </e>
+        <e p="Stores" t="Include">
+          <e p="ChampaignPizzaStore.cs" t="Include" />
+          <e p="PizzaStore.cs" t="Include" />
+          <e p="SyracusePizzaStore.cs" t="Include" />
+        </e>
+      </e>
+      <e p="HollywoodPrinciple" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Class1.cs" t="Include" />
+        <e p="HollywoodPrinciple.csproj" t="IncludeRecursive" />
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+        </e>
+      </e>
+      <e p="Iterator" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Iterator.csproj" t="IncludeRecursive" />
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+        </e>
+        <e p="StringCollection.cs" t="Include" />
+      </e>
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Program" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="Program.cs" t="Include" />
+        <e p="Program.csproj" t="IncludeRecursive" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+        </e>
+      </e>
+    </e>
+  </component>
+</project>
