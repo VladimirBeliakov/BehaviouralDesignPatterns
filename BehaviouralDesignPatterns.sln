@@ -14,6 +14,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Command", "Command\Command.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interpreter", "Interpreter\Interpreter.csproj", "{F5EE8770-3074-4918-99A8-5497A505C007}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Composite", "Composite\Composite.csproj", "{5A46446F-EF54-4784-B085-AE21B43788CF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -48,5 +50,9 @@ Global
 		{F5EE8770-3074-4918-99A8-5497A505C007}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F5EE8770-3074-4918-99A8-5497A505C007}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F5EE8770-3074-4918-99A8-5497A505C007}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5A46446F-EF54-4784-B085-AE21B43788CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A46446F-EF54-4784-B085-AE21B43788CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A46446F-EF54-4784-B085-AE21B43788CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A46446F-EF54-4784-B085-AE21B43788CF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

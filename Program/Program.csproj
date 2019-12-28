@@ -38,10 +38,17 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="MarshalByRefType.cs" />
+    <Compile Include="MarshalByValType.cs" />
+    <Compile Include="NonMarshalableType.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\Composite\Composite.csproj">
+      <Project>{5a46446f-ef54-4784-b085-ae21b43788cf}</Project>
+      <Name>Composite</Name>
+    </ProjectReference>
     <ProjectReference Include="..\Factory\Factory.csproj">
       <Project>{65b4b7fb-366c-4457-9e45-2f4b432b150b}</Project>
       <Name>Factory</Name>
