@@ -1,12 +1,10 @@
 ﻿using System;
-using System.Collections.Generic;
 using System.Diagnostics;
 using System.Reflection;
 using System.Runtime.Remoting;
 using System.Security.Policy;
 using System.Threading;
 using Composite;
-using Factory;
 using Factory.IngredientFactory;
 using Factory.PizzaFactories;
 using Factory.Pizzas;
@@ -23,7 +21,8 @@ namespace Program
 //			runFactory();
 //			Marshalling();
 //			FieldAccessTiming();
-			runComposite();
+//			runComposite();
+			runState();
 		}
 
 		private static void runIterator()
@@ -64,7 +63,7 @@ namespace Program
 			// it back to our AD (we really get a reference to a proxy)
 
 			var executingAssembly = Assembly.GetEntryAssembly();
-			
+
 			mbrt = (MarshalByRefType)
 				ad2.CreateInstanceAndUnwrap(exeAssembly, "Program.MarshalByRefType");
 			Console.WriteLine("Type={0}", mbrt.GetType()); // The CLR lies about the type
@@ -95,7 +94,7 @@ namespace Program
 			var evidence = new Evidence();
 
 			var appDomainSetup = new AppDomainSetup();
-			
+
 			ad2 = AppDomain.CreateDomain("AD #2", null, null);
 			// Load our assembly into the new AppDomain, construct an object, marshal
 			// it back to our AD (we really get a reference to a proxy)
@@ -135,9 +134,17 @@ namespace Program
 			NonMarshalableType nmt = mbrt.MethodArgAndReturn(callingDomainName);
 // We won’t get here...
 		}
-		
-		private sealed class NonMBRO : Object { public Int32 x; }
-		private sealed class MBRO : MarshalByRefObject { public static Int32 x; }
+
+		private sealed class NonMBRO : Object
+		{
+			public Int32 x;
+		}
+
+		private sealed class MBRO : MarshalByRefObject
+		{
+			public static Int32 x;
+		}
+
 		private static void FieldAccessTiming()
 		{
 			const Int32 count = 100000000;
@@ -154,15 +161,15 @@ namespace Program
 		private static void runComposite()
 		{
 			var rootMenu = new Menu("Breakfast", "Pancakes, Eggs, Bacon");
-			
+
 			var rootMenuItem = new MenuItem("Sweet hot tea", "Tea", 5, true);
-			
+
 			var rootMenuLevelOne = new Menu("Dessert", "Sweets and Candy");
-			
+
 			var menuItemLevelOne = new MenuItem("Chocolate candy bar", "Candy", 2, true);
-			
+
 			rootMenuLevelOne.Add(menuItemLevelOne);
-			
+
 			rootMenu.Add(rootMenuLevelOne);
 			rootMenu.Add(rootMenuItem);
 
@@ -173,8 +180,21 @@ namespace Program
 					if (menu.IsVegetarian())
 						menu.Print();
 				}
-				catch (NotImplementedException) { }
+				catch (NotImplementedException)
+				{
+				}
 			}
+		}
+
+		private static void runState()
+		{
+			var number1 = 10;
+
+			Console.WriteLine($"{number1++ == 10}");
+
+			var number2 = 10;
+
+			Console.WriteLine($"{++number2 == 10}");
 		}
 	}
 }
