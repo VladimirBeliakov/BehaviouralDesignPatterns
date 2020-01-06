@@ -4,7 +4,7 @@ namespace Command
 {
 	public class MathReceiver
 	{
-		public int Value { get; private set; } = 0;
+		public int Value { get; private set; }
 
 		public void Add(int value)
 		{

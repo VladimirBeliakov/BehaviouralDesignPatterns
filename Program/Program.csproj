@@ -38,9 +38,6 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="MarshalByRefType.cs" />
-    <Compile Include="MarshalByValType.cs" />
-    <Compile Include="NonMarshalableType.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
@@ -56,6 +53,14 @@
     <ProjectReference Include="..\Iterator\Iterator.csproj">
       <Project>{03959b87-cd71-4735-8dec-81152cd15692}</Project>
       <Name>Iterator</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Mediator\Mediator.csproj">
+      <Project>{0d759e70-65be-4137-8792-0144d6d01e8b}</Project>
+      <Name>Mediator</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Memento\Memento.csproj">
+      <Project>{9d5fd1bc-6f0f-4e84-a536-fa81595e1398}</Project>
+      <Name>Memento</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

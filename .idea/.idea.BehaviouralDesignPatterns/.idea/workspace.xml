@@ -28,6 +28,10 @@
       <change beforePath="$PROJECT_DIR$/.idea/.idea.BehaviouralDesignPatterns/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.BehaviouralDesignPatterns/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.BehaviouralDesignPatterns/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.BehaviouralDesignPatterns/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/BehaviouralDesignPatterns.sln" beforeDir="false" afterPath="$PROJECT_DIR$/BehaviouralDesignPatterns.sln" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Command/MathReceiver.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Command/MathReceiver.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Program/MarshalByRefType.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Program/MarshalByValType.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Program/NonMarshalableType.cs" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Program/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Program/Program.cs" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -169,7 +173,6 @@
         <option value="$PROJECT_DIR$/Factory/PizzaFactories/ChampaignPizzaFactory.cs" />
         <option value="$PROJECT_DIR$/Factory/PizzaFactories/PizzaFactory.cs" />
         <option value="$PROJECT_DIR$/Factory/Stores/PizzaStore.cs" />
-        <option value="$PROJECT_DIR$/Command/MathReceiver.cs" />
         <option value="$PROJECT_DIR$/Program/MarshalByValType.cs" />
         <option value="$PROJECT_DIR$/Program/MarshalByRefType.cs" />
         <option value="$PROJECT_DIR$/Program/NonMarshalableType.cs" />
@@ -398,30 +401,30 @@
           <option name="timeStamp" value="27" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="DotNet Breakpoints">
-          <url>file://$PROJECT_DIR$/Composite/NullIterator.cs</url>
-          <line>17</line>
-          <properties documentPath="$PROJECT_DIR$/Composite/NullIterator.cs" initialLine="17">
+          <url>file://$PROJECT_DIR$/Program/Program.cs</url>
+          <line>63</line>
+          <properties documentPath="$PROJECT_DIR$/Program/Program.cs" initialLine="169">
             <startOffsets>
-              <option value="251" />
+              <option value="1491" />
             </startOffsets>
             <endOffsets>
-              <option value="252" />
+              <option value="1492" />
             </endOffsets>
           </properties>
-          <option name="timeStamp" value="28" />
+          <option name="timeStamp" value="33" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="DotNet Breakpoints">
-          <url>file://$PROJECT_DIR$/Composite/NullIterator.cs</url>
-          <line>26</line>
-          <properties documentPath="$PROJECT_DIR$/Composite/NullIterator.cs" initialLine="26">
+          <url>file://$PROJECT_DIR$/Program/Program.cs</url>
+          <line>89</line>
+          <properties documentPath="$PROJECT_DIR$/Program/Program.cs" initialLine="86">
             <startOffsets>
-              <option value="374" />
+              <option value="1939" />
             </startOffsets>
             <endOffsets>
-              <option value="378" />
+              <option value="1964" />
             </endOffsets>
           </properties>
-          <option name="timeStamp" value="30" />
+          <option name="timeStamp" value="34" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="DotNet Breakpoints">
           <url>file://$PROJECT_DIR$/Program/Program.cs</url>
