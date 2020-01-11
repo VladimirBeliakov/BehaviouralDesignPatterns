@@ -1,11 +1,7 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.ComponentModel;
-using System.Diagnostics;
-using System.Reflection;
-using System.Runtime.Remoting;
-using System.Security.Policy;
+using System.Security.Cryptography;
 using System.Threading;
+using System.Threading.Tasks;
 using Composite;
 using Factory.IngredientFactory;
 using Factory.PizzaFactories;
@@ -14,12 +10,14 @@ using Factory.Stores;
 using Iterator;
 using Mediator;
 using Memento;
+using Observer;
+using Timer = Observer.Timer;
 
 namespace Program
 {
 	internal static class Program
 	{
-		public static void Main(string[] args)
+		public static async Task Main(string[] args)
 		{
 //			runIterator();
 //			runFactory();
@@ -28,7 +26,8 @@ namespace Program
 //			runComposite();
 //			runState();
 //			runMediator();
-			runMemento();
+//			runMemento();
+			await runObserver();
 		}
 
 		private static void runIterator()
@@ -133,6 +132,24 @@ namespace Program
 			history.Restore(0);
 			Console.WriteLine("Revision 1 restored.");
 			Console.WriteLine(document.ToString());
+		}
+
+		private static async Task runObserver()
+		{
+			var timer = new Timer();
+			var clock = new ConsoleClock();
+
+			timer.Notify += clock.Update;
+
+			timer.Start();
+
+			await Task.Delay(4000);
+
+			timer.Notify -= clock.Update;
+
+			await Task.Delay(2000);
+
+			timer.Notify += clock.Update;
 		}
 	}
 }

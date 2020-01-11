@@ -25,14 +25,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4703987e-3269-43cb-be9b-9948642b73ac" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.BehaviouralDesignPatterns/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.BehaviouralDesignPatterns/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.BehaviouralDesignPatterns/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.BehaviouralDesignPatterns/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/BehaviouralDesignPatterns.sln" beforeDir="false" afterPath="$PROJECT_DIR$/BehaviouralDesignPatterns.sln" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Command/MathReceiver.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Command/MathReceiver.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Program/MarshalByRefType.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Program/MarshalByValType.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Program/NonMarshalableType.cs" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Program/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Program/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Program/Program.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Program/Program.csproj" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -42,6 +38,155 @@
   </component>
   <component name="FavoritesManager">
     <favorites_list name="BehaviouralDesignPatterns" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Program/Program.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="83">
+              <caret line="138" column="30" selection-start-line="138" selection-start-column="30" selection-end-line="138" selection-end-column="30" />
+              <folding>
+                <marker date="1578518508536" expanded="true" signature="6:320" ph="..." />
+                <marker date="1578518508536" expanded="true" signature="339:3228" ph="{...}" />
+                <marker date="1578518508536" expanded="true" signature="372:3226" ph="{...}" />
+                <marker date="1578518508536" expanded="true" signature="422:616" ph="{...}" />
+                <marker date="1578518508536" expanded="true" signature="427:588" ph="/* runIterator(); ... */" />
+                <marker date="1578518508536" expanded="false" signature="653:823" ph="{...}" />
+                <marker date="1578518508536" expanded="false" signature="859:1015" ph="{...}" />
+                <marker date="1578518508536" expanded="false" signature="1053:1628" ph="{...}" />
+                <marker date="1578518508536" expanded="true" signature="1504:1624" ph="{...}" />
+                <marker date="1578518508536" expanded="true" signature="1517:1579" ph="{...}" />
+                <marker date="1578518508536" expanded="false" signature="1699:1756" ph="{...}" />
+                <marker date="1578518508536" expanded="true" signature="1737:1752" ph="{...}" />
+                <marker date="1578518508536" expanded="false" signature="1793:2154" ph="{...}" />
+                <marker date="1578518508536" expanded="false" signature="2188:2329" ph="{...}" />
+                <marker date="1578518508536" expanded="false" signature="2365:2932" ph="{...}" />
+                <marker date="1578518508536" expanded="true" signature="2975:3223" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Observer/Timer.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="336">
+              <caret line="21" column="17" selection-start-line="21" selection-start-column="17" selection-end-line="21" selection-end-column="17" />
+              <folding>
+                <marker date="1578520368762" expanded="true" signature="6:37" ph="..." />
+                <marker date="1578520368762" expanded="true" signature="57:411" ph="{...}" />
+                <marker date="1578520368762" expanded="true" signature="79:409" ph="{...}" />
+                <marker date="1578520368762" expanded="true" signature="219:406" ph="{...}" />
+                <marker date="1578520368762" expanded="true" signature="266:376" ph="{...}" />
+                <marker date="1578520368762" expanded="true" signature="285:370" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Mediator/Mediator.csproj">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Mediator/Visitor.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="64">
+              <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+              <folding>
+                <marker date="1578345035095" expanded="true" signature="33:292" ph="{...}" />
+                <marker date="1578345035095" expanded="true" signature="75:290" ph="{...}" />
+                <marker date="1578345035095" expanded="true" signature="108:133" ph="{...}" />
+                <marker date="1578345035095" expanded="true" signature="183:287" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Mediator/ChatRoom.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="32">
+              <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+              <folding>
+                <marker date="1578345035093" expanded="true" signature="18:495" ph="{...}" />
+                <marker date="1578345035093" expanded="true" signature="62:493" ph="{...}" />
+                <marker date="1578345035093" expanded="true" signature="134:186" ph="{...}" />
+                <marker date="1578345035093" expanded="true" signature="252:301" ph="{...}" />
+                <marker date="1578345035093" expanded="true" signature="370:490" ph="{...}" />
+                <marker date="1578345035093" expanded="true" signature="418:486" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Mediator/AbstractChatRoom.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="96">
+              <caret line="6" column="52" selection-start-line="6" selection-start-column="52" selection-end-line="6" selection-end-column="52" />
+              <folding>
+                <marker date="1578345035092" expanded="true" signature="53:398" ph="{...}" />
+                <marker date="1578345035092" expanded="true" signature="95:396" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Mediator/AbstractVisitor.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-32">
+              <caret line="5" column="26" selection-start-line="5" selection-start-column="26" selection-end-line="5" selection-end-column="26" />
+              <folding>
+                <marker date="1578345035093" expanded="true" signature="6:51" ph="..." />
+                <marker date="1578345035093" expanded="true" signature="71:741" ph="{...}" />
+                <marker date="1578345035093" expanded="true" signature="112:739" ph="{...}" />
+                <marker date="1578345035093" expanded="true" signature="225:370" ph="{...}" />
+                <marker date="1578345035093" expanded="true" signature="467:592" ph="{...}" />
+                <marker date="1578345035093" expanded="true" signature="504:527" ph="{...}" />
+                <marker date="1578345035093" expanded="true" signature="615:736" ph="{...}" />
+                <marker date="1578345035093" expanded="true" signature="652:732" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/D195DA47-F292-4AA6-AB1F-FC82F421F850/7f/99dbef41/Thread.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="61" column="23" selection-start-line="61" selection-start-column="23" selection-end-line="61" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/D195DA47-F292-4AA6-AB1F-FC82F421F850/2e/3b764f19/ThreadStart.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="192">
+              <caret line="12" column="23" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Observer/ConsoleClock.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="118">
+              <caret line="9" column="8" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
+              <folding>
+                <marker date="1578517324999" expanded="true" signature="33:178" ph="{...}" />
+                <marker date="1578517324999" expanded="true" signature="62:176" ph="{...}" />
+                <marker date="1578517324999" expanded="true" signature="116:173" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
@@ -59,91 +204,124 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/ChainOfResponsibilities/LowSecurityLevelHandler.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/ChainOfResponsibilities/SecuritySystem.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Command/CalculatorInvoker.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Command/IOperation.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Command/MathOperation.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Command/MathReceiver.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Command/Operation.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Interpreter/Add.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Interpreter/Divide.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Interpreter/IRpnExpression.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Interpreter/Multiply.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Interpreter/Number.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Interpreter/Parser.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Interpreter/Subtraction.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Composite/MenuItem.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Composite/Menu.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/659CD5F0-C4CE-410C-B23A-6CADD71BB76F/8b/6ed6043c/IEnumerable`1.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/659CD5F0-C4CE-410C-B23A-6CADD71BB76F/b1/a1d3def5/List`1.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/State/GumBallMachine.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/State/IState.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/State/SoldOutState.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/State/SoldState.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/State/WinnerState.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/State/NoQuarterState.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/State/HasQuarterState.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Factory/Stores/ChampaignPizzaStore.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Factory/Stores/SyracusePizzaStore.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Factory/Pizzas/SyracusePizzas/SyracuseStylePepperoniPizza.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Factory/Pizzas/SyracusePizzas/SyracuseStyleCheesePizza.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Factory/Pizzas/SyracusePizzas/SyracuseStyleGreekPizza.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Factory/Pizzas/SyracusePizzas/SyracuseStyleMushroomPizza.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Factory/Pizzas/StreetPizza.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Composite/CompositeIterator.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Factory/Pizzas/SyracusePizzas/SyracuseStyleVeggiePizza.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Factory/Pizzas/IPizza.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Composite/IMenuComponent.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Memento/DocumentHistory.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Memento/Document.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Program/Program.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Program/Properties/AssemblyInfo.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Factory/Ingredients/IIngredient.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Factory/Stores/PizzaStore.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Factory/Pizzas/PepperoniPizza.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Factory/Pizzas/CheesePizza.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Factory/Pizzas/GreekPizza.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Factory/PizzaFactories/PizzaFactory.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Factory/PizzaFactories/IPizzaFactory.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Factory/IngredientFactory/IIngredientFactory.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Factory/Ingredients/Dough.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Factory/Ingredients/Sauce.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Factory/Ingredients/Cheese.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Factory/Ingredients/Veggie.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Factory/Ingredients/Pepperoni.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Factory/Ingredients/Mushroom.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Composite/IMenuComponent.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Factory/Ingredients/ChampaignStyleIngredients/ChampaignStyleCheese.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Composite/NullIterator.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Factory/Ingredients/ChampaignStyleIngredients/ChampaignStyleMushroom.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Factory/Ingredients/ChampaignStyleIngredients/ChampaignStyleVeggie.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Factory/Ingredients/ChampaignStyleIngredients/ChampaignStyleDough.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/HollywoodPrinciple/Class1.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Factory/Ingredients/ChampaignStyleIngredients/ChampaignStyleSauce.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Factory/Pizzas/VeggiePizza.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Factory/Ingredients/SyracuseStyleIngredients/SyracuseStyleCheese.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Factory/Pizzas/MushroomPizza.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Composite/MenuComponent.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Factory/Ingredients/SyracuseStyleIngredients/SyracuseStyleDough.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Factory/Pizzas/SyracusePizzas/SyracuseStyleStreetPizza.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Factory/Ingredients/SyracuseStyleIngredients/SyracuseStyleMushroom.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Factory/Ingredients/SyracuseStyleIngredients/SyracuseStyleSauce.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Factory/PizzaFactories/SyracusePizzaFactory.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Factory/Ingredients/SyracuseStyleIngredients/SyracuseStyleVeggie.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Factory/Ingredients/ChampaignStyleIngredients/ChampaignStylePepperoni.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Program/MarshalByRefType.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Factory/Ingredients/SyracuseStyleIngredients/SyracuseStylePepperoni.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Factory/Pizzas/PizzaStyle.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Program/NonMarshalableType.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Factory/IngredientFactory/SyracuseIngredientFactory.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Program/MarshalByValType.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Factory/IngredientFactory/ChampaignIngredientFactory.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Command/CalculatorInvoker.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/0FB38736-02AD-4F16-A30D-E8CE8E1A6F6D/ee/4e3fc466/Evidence.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Iterator/StringCollection.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/0FB38736-02AD-4F16-A30D-E8CE8E1A6F6D/ab/404995d0/AppDomain.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/430964EA-5F5F-4412-9618-42E926349F7D/db/4db9f518/AppDomain.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Mediator/Visitor.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/D195DA47-F292-4AA6-AB1F-FC82F421F850/d4/2d251cd4/IList.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/0FB38736-02AD-4F16-A30D-E8CE8E1A6F6D/21/dece74b6/AttributeUsageAttribute.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Mediator/ChatRoom.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Mediator/AbstractChatRoom.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/D195DA47-F292-4AA6-AB1F-FC82F421F850/70/fff150d1/IList`1.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Mediator/AbstractVisitor.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Factory/IngredientFactory/IIngredientFactory.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Factory/IngredientFactory/SyracuseIngredientFactory.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ChainOfResponsibilities/SecuritySystem.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/95B4B630-A4AF-4E9A-8336-D9E36310DACA/b5/3c60b049/Enumerable.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ChainOfResponsibilities/MediumSecurityLevelHandler.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/D195DA47-F292-4AA6-AB1F-FC82F421F850/63/a545a51d/List`1.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Factory/IngredientFactory/ChampaignIngredientFactory.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/A33E01DC-1D62-412A-B12F-1CA0A88BF455/1c/4c2cc2fd/Enumerable.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/0FB38736-02AD-4F16-A30D-E8CE8E1A6F6D/c2/7604ac11/IEnumerable.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/0FB38736-02AD-4F16-A30D-E8CE8E1A6F6D/ec/9d0ca7c2/IEnumerable`1.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Composite/CompositeIterator.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/430964EA-5F5F-4412-9618-42E926349F7D/32/8dff17da/ObjRef.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/430964EA-5F5F-4412-9618-42E926349F7D/54/78d340de/DateTime.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/430964EA-5F5F-4412-9618-42E926349F7D/0b/9e458882/ObjectCloneHelper.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/HollywoodPrinciple/Class1.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Composite/Menu.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Factory/PizzaFactories/IPizzaFactory.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Composite/MenuComponent.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Composite/MenuItem.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/430964EA-5F5F-4412-9618-42E926349F7D/77/216a3567/SerializationInfo.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/430964EA-5F5F-4412-9618-42E926349F7D/03/7122dc19/AppDomainUnloadedException.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Factory/PizzaFactories/SyracusePizzaFactory.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/430964EA-5F5F-4412-9618-42E926349F7D/4b/4ad0e446/Lease.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Iterator/Properties/AssemblyInfo.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ChainOfResponsibilities/HighSecurityLevelHandler.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ChainOfResponsibilities/LowSecurityLevelHandler.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/659CD5F0-C4CE-410C-B23A-6CADD71BB76F/8b/6ed6043c/IEnumerable`1.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/0FB38736-02AD-4F16-A30D-E8CE8E1A6F6D/79/9ac5d5df/SerializableAttribute.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Composite/NullIterator.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/0FB38736-02AD-4F16-A30D-E8CE8E1A6F6D/71/5fcb1bc0/MarshalByRefObject.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Factory/Ingredients/ChampaignStyleIngredients/ChampaignStyleSauce.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Factory/Ingredients/ChampaignStyleIngredients/ChampaignStyleMushroom.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Factory/Ingredients/SyracuseStyleIngredients/SyracuseStyleMushroom.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Factory/Ingredients/ChampaignStyleIngredients/ChampaignStyleVeggie.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/0FB38736-02AD-4F16-A30D-E8CE8E1A6F6D/7d/5fc19ef0/EmptyArray`1.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Factory/Ingredients/ChampaignStyleIngredients/ChampaignStyleCheese.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Factory/PizzaFactories/PizzaFactory.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Factory/Ingredients/ChampaignStyleIngredients/ChampaignStyleDough.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Factory/Ingredients/ChampaignStyleIngredients/ChampaignStylePepperoni.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Factory/Ingredients/SyracuseStyleIngredients/SyracuseStyleSauce.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Factory/Ingredients/Veggie.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Factory/Ingredients/IIngredient.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Factory/Ingredients/SyracuseStyleIngredients/SyracuseStylePepperoni.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Factory/Ingredients/SyracuseStyleIngredients/SyracuseStyleCheese.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Factory/Ingredients/SyracuseStyleIngredients/SyracuseStyleVeggie.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Factory/Ingredients/SyracuseStyleIngredients/SyracuseStyleDough.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/430964EA-5F5F-4412-9618-42E926349F7D/f0/5d716498/Activator.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Factory/Ingredients/Cheese.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Interpreter/Parser.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Factory/Stores/SyracusePizzaStore.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Interpreter/Number.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/D195DA47-F292-4AA6-AB1F-FC82F421F850/2e/3b764f19/ThreadStart.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Interpreter/Multiply.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Factory/Ingredients/Dough.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Interpreter/Subtraction.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Factory/Ingredients/Mushroom.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Factory/Ingredients/Pepperoni.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Factory/Ingredients/Sauce.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/D195DA47-F292-4AA6-AB1F-FC82F421F850/7f/99dbef41/Thread.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Factory/Pizzas/SyracusePizzas/SyracuseStyleMushroomPizza.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Interpreter/Divide.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Factory/Pizzas/SyracusePizzas/SyracuseStyleVeggiePizza.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Factory/Pizzas/SyracusePizzas/SyracuseStylePepperoniPizza.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Interpreter/Add.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Factory/Pizzas/SyracusePizzas/SyracuseStyleGreekPizza.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Factory/Stores/PizzaStore.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Factory/Pizzas/SyracusePizzas/SyracuseStyleStreetPizza.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Interpreter/IRpnExpression.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Factory/Stores/ChampaignPizzaStore.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Factory/Pizzas/PizzaStyle.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Factory/Pizzas/CheesePizza.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Command/MathReceiver.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Factory/Pizzas/IPizza.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Factory/Pizzas/SyracusePizzas/SyracuseStyleCheesePizza.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/659CD5F0-C4CE-410C-B23A-6CADD71BB76F/b1/a1d3def5/List`1.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Factory/Pizzas/MushroomPizza.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Command/Operation.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Factory/Pizzas/VeggiePizza.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/0FB38736-02AD-4F16-A30D-E8CE8E1A6F6D/f5/a6c2917c/Array.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Observer/ConsoleClock.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Observer/Properties/AssemblyInfo.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/430964EA-5F5F-4412-9618-42E926349F7D/1d/2209c281/RuntimeType.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Factory/Pizzas/GreekPizza.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Factory/Pizzas/PepperoniPizza.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Factory/Pizzas/StreetPizza.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Observer/Timer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Command/MathOperation.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/State/HasQuarterState.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/State/NoQuarterState.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Command/IOperation.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/State/SoldOutState.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/State/IState.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/State/WinnerState.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/State/SoldState.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/0FB38736-02AD-4F16-A30D-E8CE8E1A6F6D/61/ccbdb4a1/EvidenceBase.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/State/GumBallMachine.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Factory/Ingredients/SyracuseStyleIngredients/SyracuseStyleSauce.cs" />
-        <option value="$PROJECT_DIR$/Factory/Ingredients/SyracuseStyleIngredients/SyracuseStyleVeggie.cs" />
         <option value="$PROJECT_DIR$/Factory/Ingredients/Pepperoni.cs" />
         <option value="$PROJECT_DIR$/Factory/Ingredients/SyracuseStyleIngredients/SyracuseStylePepperoni.cs" />
         <option value="$PROJECT_DIR$/Factory/IngredientFactory/IIngredientFactory.cs" />
@@ -185,19 +363,65 @@
         <option value="$PROJECT_DIR$/Composite/Menu.cs" />
         <option value="$PROJECT_DIR$/State/Class1.cs" />
         <option value="$PROJECT_DIR$/State/IState.cs" />
-        <option value="$PROJECT_DIR$/Program/Program.cs" />
         <option value="$PROJECT_DIR$/State/HasQuarterState.cs" />
         <option value="$PROJECT_DIR$/State/SoldState.cs" />
         <option value="$PROJECT_DIR$/State/WinnerState.cs" />
         <option value="$PROJECT_DIR$/State/NoQuarterState.cs" />
         <option value="$PROJECT_DIR$/State/SoldOutState.cs" />
         <option value="$PROJECT_DIR$/State/GumBallMachine.cs" />
+        <option value="$PROJECT_DIR$/Observer/Class1.cs" />
+        <option value="$PROJECT_DIR$/Observer/ConsoleClock.cs" />
+        <option value="$PROJECT_DIR$/Program/Program.cs" />
+        <option value="$PROJECT_DIR$/Observer/Timer.cs" />
       </list>
     </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
   </component>
   <component name="ProjectId" id="1U3HkRu2gLWXvhuVA7JU2GDgcts" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="NBKnowledgePane" />
+      <pane id="FileSystemExplorer" />
+      <pane id="SolutionExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="BehaviouralDesignPatterns" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="BehaviouralDesignPatterns" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Mediator" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="BehaviouralDesignPatterns" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Observer" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="BehaviouralDesignPatterns" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Program" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-all-files" value="false" />
+      </pane>
+      <pane id="AssemblyExplorer" />
+    </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
@@ -205,7 +429,8 @@
     <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/Interpreter/Interpreter.csproj" />
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.General" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="RoslynSettingsId" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -286,6 +511,40 @@
     </task>
     <servers />
   </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="5799000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17611489" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.23754153" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.049833886" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.55315614" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="NuGet" order="7" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="YouTrack" order="10" />
+      <window_info anchor="bottom" id="Database Changes" order="11" />
+      <window_info anchor="bottom" id="Unit Tests" order="12" weight="0.049833886" />
+      <window_info anchor="bottom" id="TeamCity" order="13" />
+      <window_info anchor="bottom" id="Terminal" order="14" />
+      <window_info anchor="bottom" id="Event Log" order="15" side_tool="true" />
+      <window_info anchor="bottom" id="Build" order="16" weight="0.3372093" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Errors In Solution" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Mongo Explorer" order="5" />
+    </layout>
+  </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
     <option name="exactExcludedFiles">
@@ -304,6 +563,12 @@
         <entry key="MAIN">
           <value>
             <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
               <option name="COLUMN_ORDER" />
             </State>
           </value>
@@ -402,44 +667,550 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="DotNet Breakpoints">
           <url>file://$PROJECT_DIR$/Program/Program.cs</url>
-          <line>63</line>
+          <line>62</line>
           <properties documentPath="$PROJECT_DIR$/Program/Program.cs" initialLine="169">
             <startOffsets>
-              <option value="1491" />
+              <option value="1460" />
             </startOffsets>
             <endOffsets>
-              <option value="1492" />
+              <option value="1461" />
             </endOffsets>
           </properties>
           <option name="timeStamp" value="33" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="DotNet Breakpoints">
           <url>file://$PROJECT_DIR$/Program/Program.cs</url>
-          <line>89</line>
+          <line>88</line>
           <properties documentPath="$PROJECT_DIR$/Program/Program.cs" initialLine="86">
             <startOffsets>
-              <option value="1939" />
+              <option value="1908" />
             </startOffsets>
             <endOffsets>
-              <option value="1964" />
+              <option value="1933" />
             </endOffsets>
           </properties>
           <option name="timeStamp" value="34" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="DotNet Breakpoints">
-          <url>file://$PROJECT_DIR$/Program/Program.cs</url>
-          <line>197</line>
-          <properties documentPath="$PROJECT_DIR$/Program/Program.cs" initialLine="197">
+          <url>file://$PROJECT_DIR$/Observer/Timer.cs</url>
+          <line>18</line>
+          <properties documentPath="$PROJECT_DIR$/Observer/Timer.cs" initialLine="18">
             <startOffsets>
-              <option value="6683" />
+              <option value="299" />
             </startOffsets>
             <endOffsets>
-              <option value="6684" />
+              <option value="309" />
             </endOffsets>
           </properties>
-          <option name="timeStamp" value="31" />
+          <option name="timeStamp" value="38" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/D195DA47-F292-4AA6-AB1F-FC82F421F850/63/a545a51d/List`1.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-7">
+          <caret line="19" column="83" selection-start-line="19" selection-start-column="83" selection-end-line="19" selection-end-column="83" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/D195DA47-F292-4AA6-AB1F-FC82F421F850/d4/2d251cd4/IList.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-7">
+          <caret line="13" column="19" selection-start-line="13" selection-start-column="19" selection-end-line="13" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Composite/Composite.csproj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-7" />
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/430964EA-5F5F-4412-9618-42E926349F7D/db/4db9f518/AppDomain.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="3445" column="6" selection-start-line="3445" selection-start-column="6" selection-end-line="3445" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/A33E01DC-1D62-412A-B12F-1CA0A88BF455/1c/4c2cc2fd/Enumerable.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="2069" column="26" selection-start-line="2069" selection-start-column="26" selection-end-line="2069" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/430964EA-5F5F-4412-9618-42E926349F7D/0b/9e458882/ObjectCloneHelper.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="30" column="6" selection-start-line="30" selection-start-column="6" selection-end-line="30" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/430964EA-5F5F-4412-9618-42E926349F7D/32/8dff17da/ObjRef.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="284" column="6" selection-start-line="284" selection-start-column="6" selection-end-line="284" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/430964EA-5F5F-4412-9618-42E926349F7D/54/78d340de/DateTime.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="475" column="6" selection-start-line="475" selection-start-column="6" selection-end-line="475" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/430964EA-5F5F-4412-9618-42E926349F7D/77/216a3567/SerializationInfo.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="40" column="10" selection-start-line="40" selection-start-column="10" selection-end-line="40" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/0FB38736-02AD-4F16-A30D-E8CE8E1A6F6D/71/5fcb1bc0/MarshalByRefObject.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="19" column="9" selection-start-line="19" selection-start-column="9" selection-end-line="19" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/0FB38736-02AD-4F16-A30D-E8CE8E1A6F6D/79/9ac5d5df/SerializableAttribute.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="14" column="22" selection-start-line="14" selection-start-column="22" selection-end-line="14" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/0FB38736-02AD-4F16-A30D-E8CE8E1A6F6D/21/dece74b6/AttributeUsageAttribute.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="68" column="16" selection-start-line="68" selection-start-column="16" selection-end-line="68" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Iterator/StringCollection.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-7">
+          <caret line="32" column="43" selection-start-line="32" selection-start-column="43" selection-end-line="32" selection-end-column="43" />
+          <folding>
+            <marker date="1574837025871" expanded="false" signature="6:59" ph="..." />
+            <marker date="1574837025871" expanded="true" signature="79:1891" ph="{...}" />
+            <marker date="1574837025871" expanded="true" signature="137:1889" ph="{...}" />
+            <marker date="1574837025871" expanded="true" signature="354:474" ph="{...}" />
+            <marker date="1574837025871" expanded="true" signature="526:593" ph="{...}" />
+            <marker date="1574837025871" expanded="true" signature="642:698" ph="{...}" />
+            <marker date="1574837025871" expanded="true" signature="768:1883" ph="{...}" />
+            <marker date="1574837025871" expanded="true" signature="903:973" ph="{...}" />
+            <marker date="1574837025871" expanded="true" signature="1009:1608" ph="{...}" />
+            <marker date="1574837025871" expanded="true" signature="1060:1181" ph="{...}" />
+            <marker date="1574837025871" expanded="true" signature="1250:1371" ph="{...}" />
+            <marker date="1574837025871" expanded="true" signature="1440:1563" ph="{...}" />
+            <marker date="1574837025871" expanded="true" signature="1641:1701" ph="{...}" />
+            <marker date="1574837025871" expanded="true" signature="1736:1764" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ChainOfResponsibilities/SecuritySystem.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-7">
+          <caret line="16" column="29" selection-start-line="16" selection-start-column="29" selection-end-line="16" selection-end-column="29" />
+          <folding>
+            <marker date="1574836485575" expanded="true" signature="31:385" ph="{...}" />
+            <marker date="1574836485575" expanded="true" signature="62:383" ph="{...}" />
+            <marker date="1574836485575" expanded="true" signature="127:267" ph="{...}" />
+            <marker date="1574836485575" expanded="true" signature="326:380" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ChainOfResponsibilities/LowSecurityLevelHandler.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-7">
+          <caret line="18" column="30" selection-start-line="18" selection-start-column="30" selection-end-line="18" selection-end-column="30" />
+          <folding>
+            <marker date="1574836485572" expanded="true" signature="46:516" ph="{...}" />
+            <marker date="1574836485572" expanded="true" signature="97:514" ph="{...}" />
+            <marker date="1574836485572" expanded="true" signature="191:225" ph="{...}" />
+            <marker date="1574836485572" expanded="true" signature="285:511" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ChainOfResponsibilities/MediumSecurityLevelHandler.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-7">
+          <caret line="18" column="33" selection-start-line="18" selection-start-column="33" selection-end-line="18" selection-end-column="33" />
+          <folding>
+            <marker date="1574836485573" expanded="true" signature="46:564" ph="{...}" />
+            <marker date="1574836485573" expanded="true" signature="100:562" ph="{...}" />
+            <marker date="1574836485573" expanded="true" signature="197:231" ph="{...}" />
+            <marker date="1574836485573" expanded="true" signature="289:559" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ChainOfResponsibilities/HighSecurityLevelHandler.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-7">
+          <caret line="20" column="35" selection-start-line="20" selection-start-column="35" selection-end-line="20" selection-end-column="35" />
+          <folding>
+            <marker date="1574836485571" expanded="true" signature="46:532" ph="{...}" />
+            <marker date="1574836485571" expanded="true" signature="98:530" ph="{...}" />
+            <marker date="1574836485571" expanded="true" signature="193:227" ph="{...}" />
+            <marker date="1574836485571" expanded="true" signature="287:527" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Command/Command.csproj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-7">
+          <caret column="38" selection-start-column="38" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Factory/Factory.csproj">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HollywoodPrinciple/HollywoodPrinciple.csproj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-7" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HollywoodPrinciple/Class1.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-7">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+          <folding>
+            <marker date="1574837025865" expanded="true" signature="28:87" ph="{...}" />
+            <marker date="1574837025865" expanded="true" signature="54:85" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Interpreter/Interpreter.csproj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-7" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Iterator/Iterator.csproj">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Program/Program.csproj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-7" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Interpreter/Add.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-7">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+          <folding>
+            <marker date="1574836485602" expanded="true" signature="21:436" ph="{...}" />
+            <marker date="1574836485602" expanded="true" signature="58:434" ph="{...}" />
+            <marker date="1574836485602" expanded="true" signature="241:325" ph="{...}" />
+            <marker date="1574836485602" expanded="true" signature="353:431" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Interpreter/Divide.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-7">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+          <folding>
+            <marker date="1574836485603" expanded="true" signature="21:442" ph="{...}" />
+            <marker date="1574836485603" expanded="true" signature="61:440" ph="{...}" />
+            <marker date="1574836485603" expanded="true" signature="247:331" ph="{...}" />
+            <marker date="1574836485603" expanded="true" signature="359:437" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Interpreter/IRpnExpression.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-7">
+          <caret line="2" column="21" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
+          <folding>
+            <marker date="1574836485603" expanded="true" signature="21:83" ph="{...}" />
+            <marker date="1574836485603" expanded="true" signature="56:81" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Interpreter/Multiply.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-7">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+          <folding>
+            <marker date="1574836485605" expanded="true" signature="21:446" ph="{...}" />
+            <marker date="1574836485605" expanded="true" signature="63:444" ph="{...}" />
+            <marker date="1574836485605" expanded="true" signature="251:335" ph="{...}" />
+            <marker date="1574836485605" expanded="true" signature="363:441" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Interpreter/Number.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-7">
+          <caret line="10" column="8" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
+          <folding>
+            <marker date="1574836485606" expanded="true" signature="21:209" ph="{...}" />
+            <marker date="1574836485606" expanded="true" signature="61:207" ph="{...}" />
+            <marker date="1574836485606" expanded="true" signature="123:150" ph="{...}" />
+            <marker date="1574836485606" expanded="true" signature="178:204" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/State/State.csproj">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Interpreter/Parser.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-7">
+          <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+          <folding>
+            <marker date="1574836485606" expanded="true" signature="56:1148" ph="{...}" />
+            <marker date="1574836485606" expanded="true" signature="79:1146" ph="{...}" />
+            <marker date="1574836485606" expanded="true" signature="126:1143" ph="{...}" />
+            <marker date="1574836485606" expanded="true" signature="255:1115" ph="{...}" />
+            <marker date="1574836485606" expanded="true" signature="349:1110" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BehaviouralDesignPatterns.sln">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Interpreter/Subtraction.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-7">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+          <folding>
+            <marker date="1574836485608" expanded="true" signature="21:452" ph="{...}" />
+            <marker date="1574836485608" expanded="true" signature="66:450" ph="{...}" />
+            <marker date="1574836485608" expanded="true" signature="257:341" ph="{...}" />
+            <marker date="1574836485608" expanded="true" signature="369:447" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Command/CalculatorInvoker.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-7">
+          <caret line="10" column="25" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
+          <folding>
+            <marker date="1574836485589" expanded="true" signature="17:172" ph="{...}" />
+            <marker date="1574836485589" expanded="true" signature="51:170" ph="{...}" />
+            <marker date="1574836485589" expanded="true" signature="83:91" ph="{...}" />
+            <marker date="1574836485589" expanded="true" signature="135:167" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ChainOfResponsibilities/ChainOfResponsibilities.csproj">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Command/IOperation.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-22">
+          <caret line="2" column="21" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
+          <folding>
+            <marker date="1574836485590" expanded="true" signature="17:74" ph="{...}" />
+            <marker date="1574836485590" expanded="true" signature="48:72" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Observer/Observer.csproj">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Command/MathOperation.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-22">
+          <caret line="2" column="16" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
+          <folding>
+            <marker date="1574836485591" expanded="true" signature="17:110" ph="{...}" />
+            <marker date="1574836485591" expanded="true" signature="46:108" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/State/WinnerState.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="64">
+          <caret line="4" column="19" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
+          <folding>
+            <marker date="1578345034669" expanded="true" signature="30:1056" ph="{...}" />
+            <marker date="1578345034669" expanded="true" signature="69:1054" ph="{...}" />
+            <marker date="1578345034669" expanded="true" signature="176:221" ph="{...}" />
+            <marker date="1578345034669" expanded="true" signature="252:388" ph="{...}" />
+            <marker date="1578345034669" expanded="true" signature="418:547" ph="{...}" />
+            <marker date="1578345034669" expanded="true" signature="577:678" ph="{...}" />
+            <marker date="1578345034669" expanded="true" signature="704:1051" ph="{...}" />
+            <marker date="1578345034669" expanded="true" signature="918:1047" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Observer/ConsoleClock.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="118">
+          <caret line="9" column="8" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
+          <folding>
+            <marker date="1578517324999" expanded="true" signature="33:178" ph="{...}" />
+            <marker date="1578517324999" expanded="true" signature="62:176" ph="{...}" />
+            <marker date="1578517324999" expanded="true" signature="116:173" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Program/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="83">
+          <caret line="138" column="30" selection-start-line="138" selection-start-column="30" selection-end-line="138" selection-end-column="30" />
+          <folding>
+            <marker date="1578518508536" expanded="true" signature="6:320" ph="..." />
+            <marker date="1578518508536" expanded="true" signature="339:3228" ph="{...}" />
+            <marker date="1578518508536" expanded="true" signature="372:3226" ph="{...}" />
+            <marker date="1578518508536" expanded="true" signature="422:616" ph="{...}" />
+            <marker date="1578518508536" expanded="true" signature="427:588" ph="/* runIterator(); ... */" />
+            <marker date="1578518508536" expanded="false" signature="653:823" ph="{...}" />
+            <marker date="1578518508536" expanded="false" signature="859:1015" ph="{...}" />
+            <marker date="1578518508536" expanded="false" signature="1053:1628" ph="{...}" />
+            <marker date="1578518508536" expanded="true" signature="1504:1624" ph="{...}" />
+            <marker date="1578518508536" expanded="true" signature="1517:1579" ph="{...}" />
+            <marker date="1578518508536" expanded="false" signature="1699:1756" ph="{...}" />
+            <marker date="1578518508536" expanded="true" signature="1737:1752" ph="{...}" />
+            <marker date="1578518508536" expanded="false" signature="1793:2154" ph="{...}" />
+            <marker date="1578518508536" expanded="false" signature="2188:2329" ph="{...}" />
+            <marker date="1578518508536" expanded="false" signature="2365:2932" ph="{...}" />
+            <marker date="1578518508536" expanded="true" signature="2975:3223" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Command/MathReceiver.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-37">
+          <caret line="6" column="46" selection-start-line="6" selection-start-column="46" selection-end-line="6" selection-end-column="46" />
+          <folding>
+            <marker date="1578345035092" expanded="true" signature="32:615" ph="{...}" />
+            <marker date="1578345035092" expanded="true" signature="61:613" ph="{...}" />
+            <marker date="1578345035092" expanded="true" signature="135:227" ph="{...}" />
+            <marker date="1578345035092" expanded="true" signature="262:354" ph="{...}" />
+            <marker date="1578345035092" expanded="true" signature="391:483" ph="{...}" />
+            <marker date="1578345035092" expanded="true" signature="518:610" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Command/Operation.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-7">
+          <caret line="16" column="8" selection-start-line="16" selection-start-column="8" selection-end-line="16" selection-end-column="8" />
+          <folding>
+            <marker date="1574836485592" expanded="true" signature="32:796" ph="{...}" />
+            <marker date="1574836485592" expanded="true" signature="71:794" ph="{...}" />
+            <marker date="1574836485592" expanded="true" signature="272:351" ph="{...}" />
+            <marker date="1574836485592" expanded="true" signature="378:791" ph="{...}" />
+            <marker date="1574836485592" expanded="true" signature="404:787" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/D195DA47-F292-4AA6-AB1F-FC82F421F850/2e/3b764f19/ThreadStart.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="12" column="23" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/D195DA47-F292-4AA6-AB1F-FC82F421F850/7f/99dbef41/Thread.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="61" column="23" selection-start-line="61" selection-start-column="23" selection-end-line="61" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Observer/Timer.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="21" column="17" selection-start-line="21" selection-start-column="17" selection-end-line="21" selection-end-column="17" />
+          <folding>
+            <marker date="1578520368762" expanded="true" signature="6:37" ph="..." />
+            <marker date="1578520368762" expanded="true" signature="57:411" ph="{...}" />
+            <marker date="1578520368762" expanded="true" signature="79:409" ph="{...}" />
+            <marker date="1578520368762" expanded="true" signature="219:406" ph="{...}" />
+            <marker date="1578520368762" expanded="true" signature="266:376" ph="{...}" />
+            <marker date="1578520368762" expanded="true" signature="285:370" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Mediator/Mediator.csproj">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Mediator/Visitor.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="64">
+          <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+          <folding>
+            <marker date="1578345035095" expanded="true" signature="33:292" ph="{...}" />
+            <marker date="1578345035095" expanded="true" signature="75:290" ph="{...}" />
+            <marker date="1578345035095" expanded="true" signature="108:133" ph="{...}" />
+            <marker date="1578345035095" expanded="true" signature="183:287" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Mediator/AbstractVisitor.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-32">
+          <caret line="5" column="26" selection-start-line="5" selection-start-column="26" selection-end-line="5" selection-end-column="26" />
+          <folding>
+            <marker date="1578345035093" expanded="true" signature="6:51" ph="..." />
+            <marker date="1578345035093" expanded="true" signature="71:741" ph="{...}" />
+            <marker date="1578345035093" expanded="true" signature="112:739" ph="{...}" />
+            <marker date="1578345035093" expanded="true" signature="225:370" ph="{...}" />
+            <marker date="1578345035093" expanded="true" signature="467:592" ph="{...}" />
+            <marker date="1578345035093" expanded="true" signature="504:527" ph="{...}" />
+            <marker date="1578345035093" expanded="true" signature="615:736" ph="{...}" />
+            <marker date="1578345035093" expanded="true" signature="652:732" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Mediator/AbstractChatRoom.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="6" column="52" selection-start-line="6" selection-start-column="52" selection-end-line="6" selection-end-column="52" />
+          <folding>
+            <marker date="1578345035092" expanded="true" signature="53:398" ph="{...}" />
+            <marker date="1578345035092" expanded="true" signature="95:396" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Mediator/ChatRoom.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="32">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+          <folding>
+            <marker date="1578345035093" expanded="true" signature="18:495" ph="{...}" />
+            <marker date="1578345035093" expanded="true" signature="62:493" ph="{...}" />
+            <marker date="1578345035093" expanded="true" signature="134:186" ph="{...}" />
+            <marker date="1578345035093" expanded="true" signature="252:301" ph="{...}" />
+            <marker date="1578345035093" expanded="true" signature="370:490" ph="{...}" />
+            <marker date="1578345035093" expanded="true" signature="418:486" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
   </component>
 </project>
