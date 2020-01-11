@@ -67,6 +67,10 @@
       <Project>{96efd581-2138-4f88-a9ef-4fa8d8c92a30}</Project>
       <Name>Observer</Name>
     </ProjectReference>
+    <ProjectReference Include="..\State\State.csproj">
+      <Project>{ecfa6040-65ea-4eb9-ab4c-6a724ff96084}</Project>
+      <Name>State</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

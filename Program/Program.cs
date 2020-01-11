@@ -11,6 +11,7 @@ using Iterator;
 using Mediator;
 using Memento;
 using Observer;
+using State.CourseVersion;
 using Timer = Observer.Timer;
 
 namespace Program
@@ -27,7 +28,8 @@ namespace Program
 //			runState();
 //			runMediator();
 //			runMemento();
-			await runObserver();
+//			await runObserver();
+			runCourseVersionState();
 		}
 
 		private static void runIterator()
@@ -150,6 +152,40 @@ namespace Program
 			await Task.Delay(2000);
 
 			timer.Notify += clock.Update;
+		}
+
+		private static void runCourseVersionState()
+		{
+			var vendorMachine = new VendingMachine();
+
+			Console.WriteLine("Insert a coin: 1");
+			Console.WriteLine("Eject a coin: 2");
+			Console.WriteLine("Push the button: 3");
+
+			while (true)
+			{
+
+				Console.ForegroundColor = ConsoleColor.White;
+				Console.WriteLine("Enter an action code");
+				
+				var action = Console.ReadLine();
+
+				switch (action)
+				{
+					case "1":
+						vendorMachine.InsertCoin();
+						break;
+					case "2":
+						vendorMachine.EjectCoin();
+						break;
+					case "3":
+						vendorMachine.PushButton();
+						break;
+					default:
+						Console.WriteLine("Wrong action code.");
+						break;
+				}
+			}
 		}
 	}
 }

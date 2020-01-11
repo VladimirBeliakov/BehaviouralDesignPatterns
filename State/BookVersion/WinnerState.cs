@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace State
+namespace State.BookVersion
 {
 	internal class WinnerState : IState
 	{

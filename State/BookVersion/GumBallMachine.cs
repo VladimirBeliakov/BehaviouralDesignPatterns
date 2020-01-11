@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace State
+namespace State.BookVersion
 {
 	public class GumBallMachine
 	{
